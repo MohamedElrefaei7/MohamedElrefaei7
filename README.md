@@ -9,6 +9,6 @@ Applied ML for messy real-world data, anywhere a model has to survive contact wi
 - 📈 [Maritime Trade Signals Analysis](https://github.com/mohamedelrefaei7/trade-analysis-project) —
    - A Real-time pipeline that ingests AIS vessel positions, cargo flight data, and macro indicators into TimescaleDB; walk-forward ElasticNet           models forecast Baltic Dry Index and Drewry WCI returns, visualized and interpreted via a local Streamlit dashboard
 - 🔬 Predicting early hearing loss from noisy pediatric test data (Stanford SAIL)
-- 🤖 Autonomous control systems for FRC Team 5142 (ranked 17th at world championship 2025)
+- 🤖 Autonomous control systems for FRC Team 5142 (ranked 17th at 2025 world championship)
 
 **Reach me:** [LinkedIn](https://linkedin.com/in/melrefaei) · melrefae@bu.edu
