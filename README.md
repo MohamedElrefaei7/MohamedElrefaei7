@@ -1,4 +1,4 @@
-## Hey, I'm Mohamed.
+## Welcome to my Github!
 
 Data Science Major, Business Minor student at Boston University. 
 
