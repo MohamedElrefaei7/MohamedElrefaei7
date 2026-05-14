@@ -2,10 +2,10 @@
 
 Data Science Major, Business Minor student at Boston University. 
 
-Interested in:
-Applied ML for messy real-world data, anywhere a model has to survive contact with the real world.
+## Interested in 
+Applied ML utilizing real-world data
 
-**Recent work**
+**My Recent Work**
 - 📈 [Maritime Trade Signals Analysis](https://github.com/mohamedelrefaei7/trade-analysis-project) —
    - A Real-time pipeline that ingests AIS vessel positions, cargo flight data, and macro indicators into TimescaleDB; walk-forward ElasticNet           models forecast Baltic Dry Index and Drewry WCI returns, visualized and interpreted via a local Streamlit dashboard
 - 🔬 Predicting early hearing loss from noisy pediatric test data (Stanford SAIL)
