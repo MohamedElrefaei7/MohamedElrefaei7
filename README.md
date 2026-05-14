@@ -4,7 +4,7 @@ Data Science Major, Business Minor student at Boston University.
 
 **Interested in**
 
-Applied ML utilizing real-world data
+Applied ML utilizing real-world data and creating/maintaining data flows and pipelines
 
 **My Recent Work**
 - 📈 [Maritime Trade Signals Analysis](https://github.com/mohamedelrefaei7/trade-analysis-project) —
