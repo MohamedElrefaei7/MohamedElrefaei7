@@ -1,6 +1,6 @@
-## Welcome to my Github!
+## Welcome to my Repos!
 
-Data Science Major, Business Minor student at Boston University. 
+I'm a Data Science Major, Business Minor student at Boston University. 
 
 **Interested in**
 
