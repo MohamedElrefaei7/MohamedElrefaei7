@@ -1,4 +1,4 @@
-## Hey, I'm Mohamed 👋
+## Hey, I'm Mohamed.
 
 Data Science Major, Business Minor student at Boston University. 
 
